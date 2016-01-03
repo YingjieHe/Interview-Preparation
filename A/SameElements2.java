@@ -32,6 +32,7 @@ public class SameElements2 {
 		ArrayList<String> list3 = new ArrayList<String>();
 		list1.add("aa");
 		list1.add("aa");
+		list1.add("aa");
 		list1.add("ba");
 		list1.add("ca");
 		list1.add("ta");
